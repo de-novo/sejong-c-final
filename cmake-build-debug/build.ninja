@@ -148,6 +148,48 @@ build CMakeFiles/final.dir/array/7-16.c.o: C_COMPILER__final_Debug /Users/denovo
   OBJECT_DIR = CMakeFiles/final.dir
   OBJECT_FILE_DIR = CMakeFiles/final.dir/array
 
+build CMakeFiles/final.dir/array2/7_2-1.c.o: C_COMPILER__final_Debug /Users/denovo/CLionProjects/final/array2/7_2-1.c || cmake_object_order_depends_target_final
+  DEP_FILE = CMakeFiles/final.dir/array2/7_2-1.c.o.d
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu99
+  OBJECT_DIR = CMakeFiles/final.dir
+  OBJECT_FILE_DIR = CMakeFiles/final.dir/array2
+
+build CMakeFiles/final.dir/array2/7_2-2.c.o: C_COMPILER__final_Debug /Users/denovo/CLionProjects/final/array2/7_2-2.c || cmake_object_order_depends_target_final
+  DEP_FILE = CMakeFiles/final.dir/array2/7_2-2.c.o.d
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu99
+  OBJECT_DIR = CMakeFiles/final.dir
+  OBJECT_FILE_DIR = CMakeFiles/final.dir/array2
+
+build CMakeFiles/final.dir/array2/7_2-3.c.o: C_COMPILER__final_Debug /Users/denovo/CLionProjects/final/array2/7_2-3.c || cmake_object_order_depends_target_final
+  DEP_FILE = CMakeFiles/final.dir/array2/7_2-3.c.o.d
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu99
+  OBJECT_DIR = CMakeFiles/final.dir
+  OBJECT_FILE_DIR = CMakeFiles/final.dir/array2
+
+build CMakeFiles/final.dir/array2/7_2-4.c.o: C_COMPILER__final_Debug /Users/denovo/CLionProjects/final/array2/7_2-4.c || cmake_object_order_depends_target_final
+  DEP_FILE = CMakeFiles/final.dir/array2/7_2-4.c.o.d
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu99
+  OBJECT_DIR = CMakeFiles/final.dir
+  OBJECT_FILE_DIR = CMakeFiles/final.dir/array2
+
+build CMakeFiles/final.dir/array2/7_2-5.c.o: C_COMPILER__final_Debug /Users/denovo/CLionProjects/final/array2/7_2-5.c || cmake_object_order_depends_target_final
+  DEP_FILE = CMakeFiles/final.dir/array2/7_2-5.c.o.d
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu99
+  OBJECT_DIR = CMakeFiles/final.dir
+  OBJECT_FILE_DIR = CMakeFiles/final.dir/array2
+
+build CMakeFiles/final.dir/array2/7_2-6.c.o: C_COMPILER__final_Debug /Users/denovo/CLionProjects/final/array2/7_2-6.c || cmake_object_order_depends_target_final
+  DEP_FILE = CMakeFiles/final.dir/array2/7_2-6.c.o.d
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu99
+  OBJECT_DIR = CMakeFiles/final.dir
+  OBJECT_FILE_DIR = CMakeFiles/final.dir/array2
+
+build CMakeFiles/final.dir/array2/7_2-7.c.o: C_COMPILER__final_Debug /Users/denovo/CLionProjects/final/array2/7_2-7.c || cmake_object_order_depends_target_final
+  DEP_FILE = CMakeFiles/final.dir/array2/7_2-7.c.o.d
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu99
+  OBJECT_DIR = CMakeFiles/final.dir
+  OBJECT_FILE_DIR = CMakeFiles/final.dir/array2
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target final
@@ -156,7 +198,7 @@ build CMakeFiles/final.dir/array/7-16.c.o: C_COMPILER__final_Debug /Users/denovo
 #############################################
 # Link the executable final
 
-build final: C_EXECUTABLE_LINKER__final_Debug CMakeFiles/final.dir/main.c.o CMakeFiles/final.dir/array/7-1.c.o CMakeFiles/final.dir/array/7-2.c.o CMakeFiles/final.dir/array/7-3.c.o CMakeFiles/final.dir/array/7-4.c.o CMakeFiles/final.dir/array/7-5.c.o CMakeFiles/final.dir/array/7-6.c.o CMakeFiles/final.dir/array/7-7.c.o CMakeFiles/final.dir/array/7-8.c.o CMakeFiles/final.dir/array/7-9.c.o CMakeFiles/final.dir/array/7-10.c.o CMakeFiles/final.dir/array/7-11.c.o CMakeFiles/final.dir/array/7-12.c.o CMakeFiles/final.dir/array/7-13.c.o CMakeFiles/final.dir/array/7-14.c.o CMakeFiles/final.dir/array/7-15.c.o CMakeFiles/final.dir/array/7-16.c.o
+build final: C_EXECUTABLE_LINKER__final_Debug CMakeFiles/final.dir/main.c.o CMakeFiles/final.dir/array/7-1.c.o CMakeFiles/final.dir/array/7-2.c.o CMakeFiles/final.dir/array/7-3.c.o CMakeFiles/final.dir/array/7-4.c.o CMakeFiles/final.dir/array/7-5.c.o CMakeFiles/final.dir/array/7-6.c.o CMakeFiles/final.dir/array/7-7.c.o CMakeFiles/final.dir/array/7-8.c.o CMakeFiles/final.dir/array/7-9.c.o CMakeFiles/final.dir/array/7-10.c.o CMakeFiles/final.dir/array/7-11.c.o CMakeFiles/final.dir/array/7-12.c.o CMakeFiles/final.dir/array/7-13.c.o CMakeFiles/final.dir/array/7-14.c.o CMakeFiles/final.dir/array/7-15.c.o CMakeFiles/final.dir/array/7-16.c.o CMakeFiles/final.dir/array2/7_2-1.c.o CMakeFiles/final.dir/array2/7_2-2.c.o CMakeFiles/final.dir/array2/7_2-3.c.o CMakeFiles/final.dir/array2/7_2-4.c.o CMakeFiles/final.dir/array2/7_2-5.c.o CMakeFiles/final.dir/array2/7_2-6.c.o CMakeFiles/final.dir/array2/7_2-7.c.o
   FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/final.dir
   POST_BUILD = :
