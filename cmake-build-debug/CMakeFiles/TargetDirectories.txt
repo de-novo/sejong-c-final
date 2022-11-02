@@ -1,0 +1,3 @@
+/Users/denovo/CLionProjects/final/cmake-build-debug/CMakeFiles/final.dir
+/Users/denovo/CLionProjects/final/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/denovo/CLionProjects/final/cmake-build-debug/CMakeFiles/rebuild_cache.dir
