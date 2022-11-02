@@ -11,13 +11,16 @@ void seven12() {
 
 
     }
-    double min = X[0];
 
     for (int i = 0; i < 10; i++) {
-        min = min>X[i]?X[i]:min;
-
+        int cnt=0;
+        for (int j = 0; j < 10; j++) {
+            if(X[i]>X[j]){
+                cnt++;
+            }
+        }
+        printf(" %d",cnt);
     }
-    printf("%0.1lf",min);
 
 
 }

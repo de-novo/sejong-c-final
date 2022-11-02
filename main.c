@@ -27,9 +27,13 @@ int main() {
 //    seven7();
 //    seven8();
 //    seven9();
-    seven10();
+//    seven10();
 //    seven11();
 //    seven12();
+//    seven13();
+//    seven14();
+//    seven15();
+    seven16();
 
 
     return 0;
