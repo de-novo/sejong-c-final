@@ -35,15 +35,31 @@ void seven16();
 
 //7장 실습
 void seven2_1();
+
 void seven2_2();
+
 void seven2_3();
+
 void seven2_4();
+
 void seven2_5();
+
 void seven2_6();
+
 void seven2_7();
+
 void seven2_8();
+
 void seven2_9();
+
 void seven2_10();
+
+void seven_a_1();
+void seven_a_2();
+void seven_a_3();
+void seven_a_4();
+void seven_a_5();
+
 
 int main() {
     //7장
@@ -65,18 +81,23 @@ int main() {
 //    seven16();
 
 // 7장 실습
-
 //    seven2_1();
 //    seven2_2();
 //    seven2_3();
 //    seven2_4();
 //    seven2_5();
-    seven2_6();
+//    seven2_6();
 //    seven2_7();
 //    seven2_8();
 //    seven2_9();
 //    seven2_10();
 
+    //7장 과제
+    seven_a_1();
+//    seven_a_2();
+//    seven_a_3();
+//    seven_a_4();
+//    seven_a_5();
 
 
 
