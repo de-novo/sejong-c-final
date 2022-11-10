@@ -96,8 +96,16 @@ void eight13();
 
 void eight14();
 
-int add(int x,int y);
-int addXtoY(int x,int y);
+//8장 과제
+void eight_a1();
+
+void eight_a2();
+
+void eight_a3();
+
+void eight_a4();
+
+void eight_a5();
 
 int main() {
     //7장
@@ -118,7 +126,7 @@ int main() {
 //    seven15();
 //    seven16();
 
-// 7장 실습
+    // 7장 실습
 //    seven2_1();
 //    seven2_2();
 //    seven2_3();
@@ -136,6 +144,8 @@ int main() {
 //    seven_a_3();
 //    seven_a_4();
 //    seven_a_5();
+
+    //8장실습
 //    eight1();
 //    eight2();
 //    eight3();
@@ -149,9 +159,15 @@ int main() {
 //    eight11();
 //    eight12();
 //    eight13();
-    eight14();
+//    eight14();
+//
 
-
+    //8장과제
+//    eight_a1();
+//    eight_a2();
+//    eight_a3();
+//    eight_a4();
+    eight_a5();
 
     return 0;
 }
